@@ -8,6 +8,7 @@
 <p>
   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 </p>
+<h1> <a href="https://github.com/HPScoding/Beat-Maker.git" > Some of my projects </a> </h1>
 
 
   
