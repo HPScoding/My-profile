@@ -2,4 +2,4 @@
 
 # Hi I'm Harsh Preet Singh 
 
-![alt text] (https://media.istockphoto.com/photos/programming-c…=0&h=LpjdY6okVWiKh8LT_LqcXz53kWaXVf47ThXKwMcCoHI=)
+![alt text] (https://img.freepik.com/free-vector/laptop-with-pr…-programming-applications-dark-neon_39422-971.jpg)
